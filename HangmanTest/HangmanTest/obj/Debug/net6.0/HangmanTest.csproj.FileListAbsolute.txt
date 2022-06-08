@@ -1,0 +1,15 @@
+C:\Users\linn\OneDrive\Dokumenter\GitHub Repos\HangmanTest\HangmanTest\bin\Debug\net6.0\HangmanTest.exe
+C:\Users\linn\OneDrive\Dokumenter\GitHub Repos\HangmanTest\HangmanTest\bin\Debug\net6.0\HangmanTest.deps.json
+C:\Users\linn\OneDrive\Dokumenter\GitHub Repos\HangmanTest\HangmanTest\bin\Debug\net6.0\HangmanTest.runtimeconfig.json
+C:\Users\linn\OneDrive\Dokumenter\GitHub Repos\HangmanTest\HangmanTest\bin\Debug\net6.0\HangmanTest.dll
+C:\Users\linn\OneDrive\Dokumenter\GitHub Repos\HangmanTest\HangmanTest\bin\Debug\net6.0\HangmanTest.pdb
+C:\Users\linn\OneDrive\Dokumenter\GitHub Repos\HangmanTest\HangmanTest\obj\Debug\net6.0\HangmanTest.csproj.AssemblyReference.cache
+C:\Users\linn\OneDrive\Dokumenter\GitHub Repos\HangmanTest\HangmanTest\obj\Debug\net6.0\HangmanTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\linn\OneDrive\Dokumenter\GitHub Repos\HangmanTest\HangmanTest\obj\Debug\net6.0\HangmanTest.AssemblyInfoInputs.cache
+C:\Users\linn\OneDrive\Dokumenter\GitHub Repos\HangmanTest\HangmanTest\obj\Debug\net6.0\HangmanTest.AssemblyInfo.cs
+C:\Users\linn\OneDrive\Dokumenter\GitHub Repos\HangmanTest\HangmanTest\obj\Debug\net6.0\HangmanTest.csproj.CoreCompileInputs.cache
+C:\Users\linn\OneDrive\Dokumenter\GitHub Repos\HangmanTest\HangmanTest\obj\Debug\net6.0\HangmanTest.dll
+C:\Users\linn\OneDrive\Dokumenter\GitHub Repos\HangmanTest\HangmanTest\obj\Debug\net6.0\refint\HangmanTest.dll
+C:\Users\linn\OneDrive\Dokumenter\GitHub Repos\HangmanTest\HangmanTest\obj\Debug\net6.0\HangmanTest.pdb
+C:\Users\linn\OneDrive\Dokumenter\GitHub Repos\HangmanTest\HangmanTest\obj\Debug\net6.0\HangmanTest.genruntimeconfig.cache
+C:\Users\linn\OneDrive\Dokumenter\GitHub Repos\HangmanTest\HangmanTest\obj\Debug\net6.0\ref\HangmanTest.dll
