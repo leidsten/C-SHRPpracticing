@@ -10,7 +10,6 @@ namespace HangmanTest
     {
         //recieve the random word to guess - return how many letters it has.
 
-        //constructor - word as param  ?
         private string _guessWord;
 
         public GetNumberOfLettersInGuessWord(string guessWord)

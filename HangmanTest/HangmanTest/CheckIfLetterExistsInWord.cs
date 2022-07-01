@@ -18,22 +18,29 @@ namespace HangmanTest
             _word = word;
         }
 
-        public string LookForLetter()
+        public void LookForLetter()
         {
-            if (_word.IndexOf(_letterToCheck) != -1)
+            for (int i = 0; i < _word.Length; i++)
             {
-                _positionOfLetter = _word.IndexOf(_letterToCheck);
-                _doesLetterExistInGuessword = true;
-                return "found at position " + _word.IndexOf(_letterToCheck);
+                if (_word[i].ToString() == _letterToCheck)
+                {
+                    _positionOfLetter = i;
+                    _doesLetterExistInGuessword = true;
+                  
+                    //return "found at position " + i;
+                }
+                else
+                {
+                    _positionOfLetter = -1;
+                    _doesLetterExistInGuessword = false;
+                    //return "not found.";
+                }
             }
-            else
-            {
-                _positionOfLetter = -1;
-                _doesLetterExistInGuessword = false;
-                return "not found.";
-            }
-               
+            //return "something went wrong...";
+
         }
+
+
 
     }
 }

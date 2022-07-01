@@ -11,14 +11,14 @@ namespace HangmanTest
         public int _numberOfDashes { get; set; }
         public List<string> _allDashes = new List<string>();
         private int _letterIndex;
-        private string _letterGuess;
+        public string LetterGuess;
         bool _letterExists;
 
         public DrawDashesAndLetters(int wordLength, int letterIndex, string letterGuess, bool letterExists)
         {
             _numberOfDashes = wordLength;
             _letterIndex = letterIndex;
-            _letterGuess = letterGuess;
+            LetterGuess = letterGuess;
             _letterExists = letterExists;
         }
 
@@ -39,9 +39,10 @@ namespace HangmanTest
             for(int i = 0; i < _numberOfDashes; i++)
             {
                 //ha en sjekk for at boktsven er riktig, ikke tom og at vi står på rett plass i lista
-                if (i == _letterIndex && _letterGuess != " " && _letterExists)
+                if (i == _letterIndex && LetterGuess != " " && _letterExists)
                 {
-                    _allDashes.Add(_letterGuess);
+                    _allDashes.Insert(i, LetterGuess);
+                   
                 }
             }
         }
